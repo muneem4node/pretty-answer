@@ -1,0 +1,19 @@
+{
+  "name": "pretty-answer",
+  "version": "1.0.0",
+  "description": "Add some helpful methods to HttpAnswer (muneem)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "muneem",
+    "response",
+    "answer"
+  ],
+  "author": "Amit Kumar Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "muneem": "^2.0.0"
+  }
+}
